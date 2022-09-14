@@ -7,7 +7,7 @@ title: ""
 
 I want to make a collaborative resource to help explain, discover and expand on Graphical Algebra.
 
-## Current plan
+## Current Plan
 
 - Gather all the existing resources I can find on the topic: blog posts, academic papers, videos,
 twitter threads.
