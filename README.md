@@ -1,4 +1,9 @@
-# Graphical algebra
+---
+layout: default
+title: ""
+---
+
+# Graphical Algebra
 
 I want to make a collaborative resource to help explain, discover and expand on Graphical Algebra.
 
