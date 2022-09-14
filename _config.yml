@@ -39,3 +39,4 @@ exclude:
   - nix
   - README.md
   - shell.nix
+  - vendor
