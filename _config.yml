@@ -27,11 +27,15 @@ github_username:  Nadrieril
 # Theme and plugins
 theme: minima
 plugins:
+  - jektex
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-readme-index
+  - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-twitter-plugin
+  - jekyll-youtube
 
 optional_front_matter:
   remove_originals: true
@@ -50,6 +54,7 @@ exclude:
   - .envrc
   - .github
   - .gitignore
+  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
   - Makefile

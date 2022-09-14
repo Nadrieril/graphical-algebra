@@ -5,6 +5,8 @@ in
 pkgs.mkShell {
   buildInputs = with pkgs; [
     niv
-    jekyll ruby
+    (ruby_3_0.withPackages (ps: [
+      ps.jekyll
+    ]))
   ];
 }
