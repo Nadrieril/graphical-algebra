@@ -29,3 +29,14 @@ people excited.
 and others to people with experience in linear algebra. I might want to indicate the audience for
 each page someday actually.
 - I must refrain from planning the structure of the website, or I'll never do anything.
+
+## Contributing
+
+The simplest way to contribute is to ask a question!
+I'm happy to answer them and they'll make the website grow.
+I haven't yet decided what's the best way.
+YouTube comments work for now, I intend to set up a twitter account at some point.
+
+Another way to contribute is via GitHub.
+Come file an issue or propose a PR!
+The GitHub repo is [here](https://github.com/Nadrieril/graphical-algebra).
