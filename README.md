@@ -40,3 +40,7 @@ YouTube comments work for now, I intend to set up a twitter account at some poin
 Another way to contribute is via GitHub.
 Come file an issue or propose a PR!
 The GitHub repo is [here](https://github.com/Nadrieril/graphical-algebra).
+
+TODO: explain the Jekyll structure and how to test locally
+
+TODO: show how to embed youtube/twitter/latex
