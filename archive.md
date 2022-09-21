@@ -1,3 +1,7 @@
+---
+include_in_header: true
+---
+
 # Index
 
 List of all the posts:

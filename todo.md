@@ -1,3 +1,7 @@
+---
+include_in_header: false
+---
+
 # Ideas for the future
 
 ## Structure of the website

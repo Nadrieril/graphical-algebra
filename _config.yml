@@ -24,9 +24,6 @@ baseurl: "/graphical-algebra" # the subpath of your site, e.g. /blog
 github_username:  Nadrieril
 # twitter_username: jekyllrb
 
-header_pages:
-  - "archive.md"
-
 # Theme and plugins
 theme: minima
 plugins:

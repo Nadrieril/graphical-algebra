@@ -1,3 +1,8 @@
+---
+layout: page
+include_in_header: false
+---
+
 # Graphical Algebra
 
 Welcome!
