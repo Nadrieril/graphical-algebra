@@ -28,10 +28,15 @@ github_username:  Nadrieril
 theme: minima
 plugins:
   - jektex
+  - jekyll-compose
   - jekyll-default-layout
   - jekyll-feed
+  - jekyll-include-cache
   - jekyll-optional-front-matter
   - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-twitter-plugin
