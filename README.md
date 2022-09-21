@@ -5,42 +5,59 @@ title: ""
 
 # Graphical Algebra
 
-I want to make a collaborative resource to help explain, discover and expand on Graphical Algebra.
+Welcome!
+This is a collaborative resource to explain, explore and play with Graphical Algebra.
 
-## Current Plan
+Graphical Algebra is a new way of writing maths that uses 2d drawings instead of symbols.
+This website contains articles, videos and links that
+explain how it works and explore what we can do with it.
 
-- Gather all the existing resources I can find on the topic: blog posts, academic papers, videos,
-twitter threads.
-- Enable collaboration. I want it to be super easy for people to ask questions, and
-relatively accessible for them to make contributions.
-- Add content myself. Probably short videos answering the questions. In my current vision, I want an
-interlinked website where each video has a bunch of questions answered underneath with links to
-other parts of the website.
-
-I expect to do a lot of the content creation at the beginning, and move to curation once I get more
-people excited.
+You can get started here: TODO
 
 
-## Non-goals
+## Goals/Values
 
-- I don't aim for exhaustivity. I would rather have a clear resource.
-- I don't want to be formal. RIgor is important but I'll aim for intuition and accessibility first.
-- I don't have a clear audience in mind. I expect some things will be accessible to kids in school
-and others to people with experience in linear algebra. I might want to indicate the audience for
-each page someday actually.
-- I must refrain from planning the structure of the website, or I'll never do anything.
+- **Fun**: We're here because we find Graphical Algebra exciting. We want to share that!
+Expect excitement and rants and hand-waving.
+- **Rich**: We want a lush and dense resource that one can wade through with delight,
+following their curiosity.
+- **Best effort**: Better to have something than nothing.
+We can always improve later; put the thing out there before it's perfect.
+
+<!-- - **Emergence**: Structure will emerge as we iterate on what we have. Let it surprise us! -->
+<!-- - **Feedback**: Want dynamic and feedback and iteration -->
+<!-- - **Exploration**: The core idea of GA can be explained in 3 minutes. Everything else is commentary on it. So let's explore it to death. -->
+<!-- - **Many-facets**: Everyone has different background knowledge and sees things differently. -->
+<!-- Let's gather as many different angles as we can, so that everyone can find what they need. -->
+
 
 ## Contributing
 
-The simplest way to contribute is to ask a question!
-I'm happy to answer them and they'll make the website grow.
-I haven't yet decided what's the best way.
-YouTube comments work for now, I intend to set up a twitter account at some point.
+Hey you! If you found this cool come chat!
+I want to make this collaborative but it's just me for now.
+I'd love to know what you liked and what you want to see more of.
 
-Another way to contribute is via GitHub.
-Come file an issue or propose a PR!
-The GitHub repo is [here](https://github.com/Nadrieril/graphical-algebra).
+For now all the content is by me (Guillaume Boisseau).
+I personally find videos the easiest to produce, so that's why there's mostly videos on here.
+I welcome all forms of media though!
+For example textual articles are probably a lot better as a resource you want to look at often.
 
-TODO: explain the Jekyll structure and how to test locally
+There are endless ways to contribute:
+- Ask an obvious/stupid question.
+If you can't find the answer, that means the website can do better!
+- Ask a deeper question about what's going on there
+- Ask a tangential question because this reminds you of something
+- Notice that some article should mention some other relevant article
+- Solve an equation, and let us know how it went
+- Try to do something and fail (and let us know what happened)
+- Explain something in your own words
+- Take a know theorem and reprove it graphically (and let us know how it went)
+- Find an example of something that's hard/impossible to do in GA
+- Suggest a topic for a video I could record.
+I love to explain things, just let me know where to start
+- etc.
 
-TODO: show how to embed youtube/twitter/latex
+For now the only way to contribute is via [the GitHub repo for this website](https://github.com/Nadrieril/graphical-algebra)
+(or, \*shudders\* YouTube comments),
+which is really not convenient.
+I'll make a twitter and a discord soonish.
