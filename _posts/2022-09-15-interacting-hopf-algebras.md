@@ -1,7 +1,4 @@
----
-title: Interacting Hopf Algebras
-date: 2022-09-15 14:01 +0200
----
+# Interacting Hopf Algebras
 
 [Paper](https://arxiv.org/abs/1403.7048)
 

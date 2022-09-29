@@ -12,13 +12,13 @@ Graphical Algebra is a new way of writing maths that uses 2d drawings instead of
 This website contains articles, videos and links that
 explain how it works and explore what we can do with it.
 
-You can get started here: TODO
+For now, the only way to get started is to pick an article from the [index](archive.md).
 
 
 ## Goals/Values
 
 - **Fun**: We're here because we find Graphical Algebra exciting. We want to share that!
-Expect excitement and rants and hand-waving.
+Expect excitement and rambles and hand-waving.
 - **Rich**: We want a lush and dense resource that one can wade through with delight,
 following their curiosity.
 - **Best effort**: Better to have something than nothing.
@@ -53,11 +53,13 @@ If you can't find the answer, that means the website can do better!
 - Explain something in your own words
 - Take a know theorem and reprove it graphically (and let us know how it went)
 - Find an example of something that's hard/impossible to do in GA
+- Add a term/details to the [glossary](glossary.html)
 - Suggest a topic for a video I could record.
 I love to explain things, just let me know where to start
 - etc.
 
-For now the only way to contribute is via [the GitHub repo for this website](https://github.com/Nadrieril/graphical-algebra)
+For now the only way to contribute is via
+[the GitHub repo for this website](https://github.com/Nadrieril/graphical-algebra)
 (or, \*shudders\* YouTube comments),
 which is really not convenient.
 I'll make a twitter and a discord soonish.

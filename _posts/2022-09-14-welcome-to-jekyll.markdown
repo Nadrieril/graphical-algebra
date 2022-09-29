@@ -1,7 +1,3 @@
----
-date: 2022-09-14 21:44:26 +0200
----
-
 # Example post!
 
 Example YouTube embed:

@@ -31,3 +31,4 @@ Join us!".
 ## Specific articles/videos
 
 - Explain the 2d syntax in contrast to the 1d syntax. Don't even need to mention semantics much
+- A vocabulary of shapes: rectangles, squares, spaceships, etc. Used with or without labels inside

@@ -1,8 +1,4 @@
----
-layout: post
-title: Graphical Affine Algebra
-date: 2022-09-15 14:02 +0200
----
+# Graphical Affine Algebra
 
 [Paper](http://www.zanasi.com/fabio/files/paperLICS19.pdf)
 
